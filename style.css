@@ -14,3 +14,9 @@ img{
     border: 2px solid black; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
+
+p{
+    text-align: center;
+    font-size: 15px;
+    color: black;
+}

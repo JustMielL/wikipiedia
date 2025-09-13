@@ -7,11 +7,10 @@ h1{
 }
 
 img{
-    float: center;
+    display: block;
+    margin: 30px auto; 
     width: 300px;
     border-radius: 8px;
-    margin-bottom: 45px;
-    margin-top: 45px;
-    margin-right: 45px;
-    margin-left: 45px;
+    border: 2px solid black; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }

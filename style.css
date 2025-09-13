@@ -5,3 +5,10 @@ h1{
     margin-bottom: 25px;
     text-align: center;
 }
+
+img{
+    float: right;
+    width: 300px;
+    border-radius: 8px;
+    text-align: center;
+}
